@@ -1,0 +1,30 @@
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\obj\Debug\fitness gym system.csproj.AssemblyReference.cache
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.Form1.resources
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.Properties.Resources.resources
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\obj\Debug\fitness gym system.csproj.GenerateResource.cache
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\obj\Debug\fitness gym system.csproj.CoreCompileInputs.cache
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\bin\Debug\fitness gym system.exe.config
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\bin\Debug\fitness gym system.exe
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\bin\Debug\fitness gym system.pdb
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\obj\Debug\fitness gym system.exe
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\obj\Debug\fitness gym system.pdb
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.CustomerButton.resources
+C:\Users\C.TECH\source\repos\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.MainForm2.resources
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\bin\Debug\fitness gym system.exe.config
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\bin\Debug\fitness gym system.exe
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\bin\Debug\fitness gym system.pdb
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness gym system.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.CustomerButton.resources
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.Form1.resources
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.MainForm2.resources
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.Properties.Resources.resources
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.UC_AddMember.resources
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness gym system.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness gym system.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness gym system.exe
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness gym system.pdb
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.UC_ViewMembers.resources
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.UC_ManageSessions.resources
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.UC_ManageSubscriptions.resources
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.UC_About.resources
+C:\Users\DELL\Downloads\fitness gym system\fitness gym system\obj\Debug\fitness_gym_system.UC_ManageUsers.resources
